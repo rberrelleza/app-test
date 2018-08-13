@@ -1,3 +1,3 @@
 # app-test
 
-Sample app using a python web server
+Sample app for okteto.
